@@ -1,4 +1,4 @@
-@media (min-width: 576px){
+ @media (min-width: 576px){
     #fotodeperfil{
         position: absolute;
          width: 15%; 
@@ -18,4 +18,22 @@
          top: 630px;
     }
 }
+.row { 
+    padding: 10px;
+    
+}
 
+div {
+    background-color: #a1b5cb;
+    text-align: center;
+}
+
+/* estilo foto  perfil  */
+
+
+/* etiqueta nombre  */
+#nombre {  
+    font-weight: bold;
+    margin-top: 30%;
+  
+}
