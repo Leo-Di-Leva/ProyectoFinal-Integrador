@@ -11,6 +11,9 @@ import { SocialComponent } from './components/social/social.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
+import { HardComponent } from './components/h&s-skills/hard.component';
+import { ProyectosComponent } from './components/proyectos/proyectos.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @NgModule({
@@ -23,6 +26,9 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
     SocialComponent,
     ExperienciaComponent,
     EducacionComponent,
+    HardComponent,
+    ProyectosComponent,
+    FooterComponent,
 
   ],
   imports: [
